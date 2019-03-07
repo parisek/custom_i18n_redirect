@@ -1,0 +1,5 @@
+name = Translation redirect (redirect issue fixed)
+description = Redirect to translated page when available. SEO for multilingual sites.
+dependencies[] = i18n
+package = Custom
+core = 7.x
